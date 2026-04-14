@@ -5,7 +5,7 @@
      Pixel-only / dark retro / inline SVG UI
 ========================================================== -->
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/rogue-header.svg" width="960" alt="Game Start Screen" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/rogue-header.svg" width="960" alt="Game Start Screen" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
      2) PLAYER ATTRIBUTES
 ========================================================== -->
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/player-attributes-title.svg" width="960" alt="PLAYER ATTRIBUTES" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/player-attributes-title.svg" width="960" alt="PLAYER ATTRIBUTES" />
 
 <p align="center">
   <img
@@ -36,13 +36,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/pixel-star.svg" width="18" height="18" alt="Pixel Star" />
+  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-star.svg" width="18" height="18" alt="Pixel Star" />
   <span> STAR: Achievements / Highlights</span>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/pixel-heart.svg" width="18" height="18" alt="Pixel Heart" />
+  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-heart.svg" width="18" height="18" alt="Pixel Heart" />
   <span> HP(Commits): Keep shipping</span>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/pixel-sword.svg" width="18" height="18" alt="Pixel Sword" />
+  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-sword.svg" width="18" height="18" alt="Pixel Sword" />
   <span> PRs(Sword): Battle-tested merges</span>
 </p>
 
@@ -50,29 +50,29 @@
      3) THE SKILL DECK (PURE SVG - 5 CARDS)
 ========================================================== -->
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/skill-deck.svg" width="960" alt="THE SKILL DECK" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/skill-deck.svg" width="960" alt="THE SKILL DECK" />
 
 <!-- =========================================================
      4) ACTIVE ENCOUNTERS (TABLE LAYOUT)
 ========================================================== -->
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/active-encounters-title.svg" width="960" alt="ACTIVE ENCOUNTERS" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/active-encounters-title.svg" width="960" alt="ACTIVE ENCOUNTERS" />
 
 <table align="center" border="0" cellspacing="0" cellpadding="10" width="960">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/encounter-left-title.svg" width="100%" alt="DBG Rogue-like Project" />
+      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-left-title.svg" width="100%" alt="DBG Rogue-like Project" />
       <br/>
       <img src="GIF占位符" width="100%" alt="DBG Rogue-like Project GIF Placeholder" />
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/boss-info.svg" width="100%" alt="Boss Info" />
+      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/boss-info.svg" width="100%" alt="Boss Info" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/encounter-right-title.svg" width="100%" alt="Node-based Social Auction Game" />
+      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-right-title.svg" width="100%" alt="Node-based Social Auction Game" />
       <br/>
       <img src="GIF占位符" width="100%" alt="Node-based Social Auction Screenshot Placeholder" />
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/encounter-info.svg" width="100%" alt="Encounter Info" />
+      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-info.svg" width="100%" alt="Encounter Info" />
     </td>
   </tr>
 </table>
@@ -81,9 +81,9 @@
      5) SAVE POINT & CREDITS
 ========================================================== -->
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/save-point-title.svg" width="960" alt="SAVE POINT & CREDITS" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/save-point-title.svg" width="960" alt="SAVE POINT & CREDITS" />
 
-<img src="https://raw.githubusercontent.com/inmate0624/Jaeger/main/assets/save-point-panel.svg" width="960" alt="Save Point Panel" />
+<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/save-point-panel.svg" width="960" alt="Save Point Panel" />
 
 <p align="center">
   <a href="https://github.com/Jaeger0624">GitHub</a>
