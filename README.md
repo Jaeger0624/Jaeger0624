@@ -39,7 +39,7 @@
 <h2>个人介绍 | About Me</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=27&amp;duration=400&amp;pause=1000&amp;center=true&amp;width=435&amp;lines=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85+%7C+GameDeveloper;%E6%B7%B1%E5%9C%B3%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6+%7C+SZTU+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=27&amp;duration=400&amp;pause=1000&amp;center=true&amp;width=435&amp;lines=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85+%7C+GameDeveloper;%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6+%7C+SUSTech+Student" alt="Typing SVG" /></a>
 </p>
 
 <table align="center">
@@ -47,7 +47,8 @@
     <td align="center" width="50%">
       <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 10px;">
         <h3>🎮 游戏开发</h3>
-        <p>经常参加Game Jam，《噬莱姆计划》开发者</p>
+        <p>游戏爱好者、核心玩家</p>
+        <p>经常参加GameJam，喜欢做些有意思的小demo</p>
       </div>
     </td>
     <td align="center" width="50%">
